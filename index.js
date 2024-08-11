@@ -44,3 +44,12 @@ console.log(a>b);
 const x = 5, y = 3;
 console.log((x<6) && (y<5))// logical and returns true if both the expressions are true hence the statement above is false.
 
+if statement 
+// if .. else statement is used to execute/ skip a block of code based on condition.
+let score = 45
+if(score>=50){
+    console.log("you passed the examination")
+}
+else{
+    console.log("You failed the examination")
+}
