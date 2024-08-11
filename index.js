@@ -37,3 +37,10 @@ console.log(result)// string
 
 //javascript comparison operators
 
+const a = 3, b = 2;
+console.log(a>b);
+
+//Javascript Logical operators
+const x = 5, y = 3;
+console.log((x<6) && (y<5))// logical and returns true if both the expressions are true hence the statement above is false.
+
