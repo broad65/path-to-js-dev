@@ -29,5 +29,11 @@ let nums=[0,1,3]
 nums=10
 console.log(nums);  //10,1,3
 
+//javascript type conversion.
+// Type conversion is the process of converting data of one type to another. for example converting styring to another number.
+let result;
+result = "3" + 2;
+console.log(result)// string
 
+//javascript comparison operators
 
